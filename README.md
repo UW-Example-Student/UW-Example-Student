@@ -1,1 +1,1 @@
-This is where I work on project for ENGL 396 at UW.
+This is where I work on projects for ENGL 396 at UW.
